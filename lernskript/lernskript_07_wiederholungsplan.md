@@ -100,13 +100,17 @@
 
 ## ⭐ Zeitplan für die Klausur selbst (90 Min., 30 Punkte)
 
+> **Voraussetzung:** die **90-Sekunden-Selbstkalibrierung** aus **Kap. 0 §5.2** — Punktwerte vom Bogen ablesen, Zeitbudget pro Aufgabe notieren, Bestehensmarke bei 17 Punkten markieren. Die Zeiten unten sind der Regelfall; maßgeblich sind die Werte, die du selbst ausgerechnet hast.
+>
+> **Und die eine gesicherte Regel:** Für falsche R/F-Antworten gibt es **keinen Punkteabzug**. Also **nie ein Feld leer lassen** — in den letzten fünf Minuten alle offenen R/F-Felder blind ankreuzen, notfalls mitten im Satz (Kap. 0 §5.4).
+
 | Phase | Zeit | Was |
 |---|---|---|
 | Überblick | 3 min | **Alle** Aufgaben durchlesen, Punkte pro Aufgabe notieren |
 | **Typ 3** (R/F) zuerst | 10–12 min | Schnell, sicher, keine Formulierungsarbeit — bringt früh Punkte und schafft Ruhe |
 | **Typ 2** (Wissensfragen) | 25–30 min | Definition + **zwei** Beispiele. Die zwei Beispiele **nie vergessen** — sie sind explizit verlangt |
 | **Typ 1** (Daten) | 35–40 min | Braucht am längsten: übersetzen, Terminus setzen, kontrastieren, datieren, begründen |
-| Kontrolle | 5 min | Steht bei jeder Typ-2-Frage die geforderte Zahl an Beispielen? Ist bei Typ 1 die Periode **mit Begründung** genannt? |
+| Kontrolle | 5 min | **Ist jedes R/F-Feld angekreuzt?** Steht bei jeder Typ-2-Frage die geforderte Zahl an Beispielen? Ist bei Typ 1 die Periode **mit Begründung** genannt? |
 
 > ⭐ **Die zwei häufigsten vermeidbaren Punktverluste:**
 > **(1) Bei Typ 2 die Beispiele vergessen.** Die Frage lautet immer „…und geben Sie **zwei** Beispiele". Eine perfekte Definition ohne Beispiele ist eine halbe Antwort.

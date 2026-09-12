@@ -46,7 +46,7 @@ Schriftlich, **90 Minuten, 30 Punkte, keine Hilfsmittel**. Notenschlüssel: 0–
 
 | Kap. | Datei | Inhalt | Priorität |
 |---|---|---|---|
-| **0** | `lernskript_00_schnellstart.md` | **Umfangskalibrierung** (wie lang muss eine Antwort sein?), **Diagnose-Test** mit Routing, **Notfallpfade** für 10 / 4 / 1 Stunde Restzeit, **Punkteökonomie** (die billigsten 17 Punkte), **zwei kommentierte Schwachantworten**, **Rettungsstrategie**, Quellenkonvention | ⭐⭐⭐ — **zuerst lesen, 40 Minuten** |
+| **0** | `lernskript_00_schnellstart.md` | **Umfangskalibrierung** (wie lang muss eine Antwort sein?), **Diagnose-Test** mit Routing, **Notfallpfade** für 10 / 4 / 1 Stunde Restzeit, **Punkteökonomie** samt **90-Sekunden-Selbstkalibrierung** am Klausurbeginn, **zwei kommentierte Schwachantworten**, **Rettungsstrategie**, Quellenkonvention | ⭐⭐⭐ — **zuerst lesen, 40 Minuten** |
 
 ### Teil 1 — Grundlagen
 

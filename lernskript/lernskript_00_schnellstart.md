@@ -189,22 +189,43 @@ Damit du in der Klausur weißt, was du **als Fachwissen anführen** kannst und w
 
 **Bestehen heißt 17 von 30 Punkten** (Notenschlüssel HO1, 2: 0–16 = 5; **17–20 = 4**). Das ist etwas völlig anderes, als „den Stoff zu beherrschen" — und es lässt sich **ausrechnen**.
 
-### 5.1 Die Punktearchitektur
+### 5.1 ⭐⭐⭐ Das Prinzip: sortiere nach Minuten pro Punkt
 
-Nach dem Zuschnitt der offiziellen Beispielfragen und einer typischen 30-Punkte-Verteilung:
+**Die genaue Punkteverteilung auf die drei Aufgabentypen ist nicht bekannt.** Der Syllabus (HO1, 2) nennt nur **30 Punkte** und den Notenschlüssel; die Beispielfragen zeigen die Fragetypen, aber keine Punktwerte. **Verlasse dich deshalb nicht auf eine geschätzte Verteilung, sondern auf das Prinzip** — es gilt unabhängig davon, wie die Punkte tatsächlich fallen:
 
-| Typ | Punkte | Was verlangt wird | **Aufwand pro Punkt** | Sicherheit |
+> **Bearbeite die Aufgaben in der Reihenfolge steigender Minuten pro Punkt.**
+
+Und diese Rangfolge ist **verteilungsunabhängig**, weil sie sich aus der Art der Anforderung ergibt:
+
+| Rang | Typ | Was verlangt wird | **Minuten pro Punkt** | Warum |
 |---|---|---|---|---|
-| **Typ 3** (R/F) | ~8 | nur ankreuzen | **minimal** — kein Formulieren, kein Schreiben | hoch, wenn du die Verwechslungspaare kennst |
-| **Typ 2** (Wissensfrage) | ~10 | Definition + 2 Beispiele | mittel — **formelhaft**, immer dieselbe Struktur | hoch bei gelernten Begriffen |
-| **Typ 1** (Daten) | ~12 | analysieren, terminologisch fassen, datieren, begründen | **hoch** — braucht Verständnis *und* Textkompetenz | schwankend |
+| **1** | **Typ 3** (R/F) | nur ankreuzen | **niedrigst** | kein Formulieren, kein Schreiben, **kein Abzug** → selbst Raten zahlt |
+| **2** | **Typ 2** (Wissensfrage) | Definition + 2 Beispiele | **mittel** | **formelhaft** — immer dieselben fünf Sätze (§5.5); reines Reproduzieren |
+| **3** | **Typ 1** (Daten) | lesen, analysieren, terminologisch fassen, datieren, begründen | **höchst** | braucht Verständnis **und** Textkompetenz **und** Formulierarbeit |
 
 > ### ⭐⭐⭐ Die Kernaussage
-> **Typ 3 und Typ 2 zusammen sind 18 Punkte — mehr als du zum Bestehen brauchst.** Und beide sind die *billigeren* Aufgabentypen.
+> **Typ 3 und Typ 2 sind gemeinsam die billigeren zwei Drittel der Klausur — und sie reichen dem Zuschnitt der Beispielfragen nach für die Bestehensgrenze aus.** Wer sie sicher beherrscht, besteht auch dann, wenn Typ 1 misslingt.
 >
-> **Das ist die strategisch wichtigste Zahl des ganzen Skripts.** Wer Typ 3 und Typ 2 sicher beherrscht, besteht — auch wenn Typ 1 komplett misslingt.
+> **Für eine gute Note brauchst du Typ 1. Für das Bestehen brauchst du ihn nicht.** Plane in dieser Reihenfolge — und zwar sowohl beim Lernen als auch in der Klausur selbst.
 
-### 5.2 Drei Bestehenspfade, durchgerechnet
+### 5.2 ⭐⭐ Die 90-Sekunden-Selbstkalibrierung am Klausurbeginn
+
+Weil du die Verteilung erst auf dem Bogen siehst, **rechne sie dort aus**. Das kostet 90 Sekunden und macht jede Schätzung von mir überflüssig:
+
+| Schritt | Was du tust |
+|---|---|
+| **1** | **Alle Aufgaben überfliegen** und die **Punktwerte** an den Rand schreiben (stehen fast immer dabei). |
+| **2** | **Zeitbudget verteilen:** 90 Minuten minus 5 für die Endkontrolle = **85 Minuten für 30 Punkte** ≈ **2,8 Minuten pro Punkt**. Schreibe neben jede Aufgabe ihr Zeitbudget: *Punkte × 2,8*. |
+| **3** | **Rangfolge festlegen:** Typ 3 zuerst, dann Typ 2, dann Typ 1 — innerhalb jedes Typs die Aufgabe zuerst, die du am besten kannst. |
+| **4** | **Bestehensmarke markieren:** Rechne aus, welche Aufgaben zusammen **17 Punkte** ergeben, und mach ein Kreuz daneben. **Das ist dein Pflichtprogramm**; alles danach ist Kür. |
+
+> ⭐ **Schritt 4 ist der psychologisch wichtigste.** Wer weiß, dass er nach Typ 3 und zwei Typ-2-Fragen bereits „im Grünen" ist, geht ohne Panik an Typ 1 — und Panik kostet in einer 90-Minuten-Klausur mehr Punkte als Wissenslücken.
+>
+> **Die Zeitregel gegen das Verhaken:** Überschreite das Zeitbudget einer Aufgabe **um höchstens die Hälfte**. Danach abbrechen, das Beste notieren, weitergehen. Eine halbe Antwort auf zwei Aufgaben bringt fast immer mehr als eine perfekte auf einer.
+
+### 5.3 Drei Bestehenspfade — als Illustration
+
+Die folgenden Zahlen unterstellen die Verteilung **8 / 10 / 12**, die sich aus dem Zuschnitt der Beispielfragen nahelegt. **Sie sind eine Illustration des Prinzips, keine Prognose** — die tatsächlichen Werte liest du nach §5.2 vom Bogen ab.
 
 | Pfad | Typ 3 | Typ 2 | Typ 1 | Summe | Note |
 |---|---|---|---|---|---|
@@ -212,17 +233,24 @@ Nach dem Zuschnitt der offiziellen Beispielfragen und einer typischen 30-Punkte-
 | **B — „solide Mitte"** | 6 von 8 | 7 von 10 | 5 von 12 | **18** | 4 |
 | **C — „Typ 1 sitzt"** | 5 von 8 | 5 von 10 | 8 von 12 | **18** | 4 |
 
-**Pfad A ist der billigste** — er verlangt kein einziges vollständiges Typ-1-Ergebnis. Er verlangt: **Verwechslungspaare** (Kap. 9) + **Begriffsdefinitionen mit je zwei Beispielen** (Kap. 8) + **Jahreszahlen** (Kap. 10 §3).
+**Pfad A ist der billigste** — er verlangt kein einziges vollständiges Typ-1-Ergebnis, sondern nur: **Verwechslungspaare** (Kap. 9) + **Begriffsdefinitionen mit je zwei Beispielen** (Kap. 8) + **Jahreszahlen** (Kap. 10 §3).
 
-**Für eine gute Note brauchst du Typ 1.** Für das Bestehen brauchst du ihn nicht. Plane in dieser Reihenfolge.
+> ⭐ **Was du aus allen drei Pfaden mitnehmen sollst:** In **jedem** von ihnen liegt der größte Einzelbeitrag bei **Typ 3 und Typ 2**, und in **keinem** ist Typ 1 mehrheitlich gelöst. Diese Struktur bleibt auch dann bestehen, wenn die echte Verteilung anders aussieht — denn sie folgt aus den Minuten pro Punkt, nicht aus den Punktzahlen.
 
-### 5.3 ⭐⭐⭐ Typ 3: Lass niemals ein Feld leer
+### 5.4 ⭐⭐⭐ Typ 3: Lass niemals ein Feld leer
 
-**Die Regel:** Kreuze bei **jeder** R/F-Aussage etwas an — auch bei völliger Ahnungslosigkeit.
+> ### ⭐⭐⭐ Gesicherte Rahmenbedingung: **Es gibt KEINEN Punkteabzug für falsche R/F-Antworten.**
+> Damit gilt ohne jede Einschränkung: **Ein leeres Feld ist immer schlechter als ein geratenes.** Raten kann dich nichts kosten.
 
-**Die Begründung:** Bei zwei Antwortmöglichkeiten liefert blindes Raten im Erwartungswert **die Hälfte** der Punkte. Bei 8 Aussagen sind das **4 Punkte für null Wissen**. Ein leeres Feld liefert **null**.
+**Die Regel — ausnahmslos:** Kreuze bei **jeder** R/F-Aussage etwas an. Auch bei völliger Ahnungslosigkeit, auch wenn die Zeit abläuft, auch wenn du die Aussage nicht verstehst.
 
-> ⚠️ **Ein ehrlicher Vorbehalt:** Der Syllabus (HO1) nennt nur die Gesamtpunkte und den Notenschlüssel; über **Punkteabzug für falsche Antworten** sagt er nichts, und die Beispielfragen zeigen bloß Ankreuzkästchen. Solange nichts anderes dasteht, ist Raten die bessere Wahl: Ohne Abzug bringt es im Schnitt einen halben Punkt pro Aussage, bei symmetrischem Abzug bringt es im Schnitt null — **schlechter als Nichtankreuzen wird es nur bei überproportionalem Abzug**. Falls auf dem Klausurbogen ein Abzug angekündigt ist, rate nur dort, wo du eine begründete Vermutung hast.
+**Die Rechnung:** Bei zwei Antwortmöglichkeiten und ohne Abzug liefert blindes Raten im Erwartungswert **einen halben Punkt pro Aussage**. Bei 8 Aussagen sind das **4 Punkte für null Wissen** — und diese 4 Punkte sind dein **garantierter Boden**, von dem aus du startest.
+
+> ⭐⭐ **Was daraus für deine Planung folgt:** Du brauchst nicht 17 Punkte aus dem Nichts, sondern **13 weitere über dem Ratenboden**. Und mit den Heuristiken unten liegt der realistische Typ-3-Ertrag nicht bei 4, sondern bei **6–7 von 8** — dann fehlen nur noch rund **10 Punkte aus Typ 2 und Typ 1 zusammen**. Das ist eine sehr viel kleinere Aufgabe, als „30 Punkte Stoff beherrschen" klingt.
+>
+> **Zwei praktische Konsequenzen:**
+> 1. **Bearbeite Typ 3 vollständig und zuerst** (siehe §5.6). Es ist der einzige Aufgabenteil, bei dem du garantiert nichts verlierst.
+> 2. **Wenn 5 Minuten vor Schluss noch R/F-Felder leer sind: sofort blind ankreuzen**, bevor du einen Satz zu Ende schreibst. Ein geratenes Kreuz ist statistisch wertvoller als der Schlusssatz einer Typ-1-Antwort.
 
 **Und Raten musst du selten blind:** Mit den Heuristiken aus Kap. 9 kommst du meist auf 70–90 %.
 
@@ -234,7 +262,7 @@ Nach dem Zuschnitt der offiziellen Beispielfragen und einer typischen 30-Punkte-
 | **Steil klingendes Gesamturteil** über mehrere Kapitel | **Nicht reflexhaft F!** Solche Aussagen sind oft **wahr** (z. B. „Konsonantensystem stärker verändert als Vokalsystem" = **R**) |
 | **Eine plausible Begründung im Nebensatz** („…, weil …") | Der **Fehler kann in der Begründung** stecken, obwohl die Hauptaussage stimmt (z. B. *siglo* sei Erbwort, „weil in ununterbrochener Kontinuität überliefert") |
 
-### 5.4 Typ 2: die formelhafte Antwort
+### 5.5 Typ 2: die formelhafte Antwort
 
 Typ 2 ist der Aufgabentyp mit dem **besten Verhältnis von Lernaufwand zu Punkten**, weil die Struktur **immer identisch** ist:
 
@@ -247,7 +275,7 @@ Typ 2 ist der Aufgabentyp mit dem **besten Verhältnis von Lernaufwand zu Punkte
 1. **Beispiele vergessen.** Die Frage sagt immer „*und geben Sie zwei Beispiele*". Fehlen sie, fehlt die Hälfte. **Schreib die Beispiele zuerst hin**, wenn du unter Zeitdruck bist.
 2. **Nur ein Beispiel geben.** „Zwei" heißt zwei. Ein zweites, schwächeres Beispiel ist besser als keins.
 
-### 5.5 Der Ablauf, wenn es ums Bestehen geht
+### 5.6 Der Ablauf, wenn es ums Bestehen geht
 
 | Reihenfolge | Aufgabe | Zeit | Warum in dieser Position |
 |---|---|---|---|
