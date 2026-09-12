@@ -46,7 +46,7 @@
 
 | Tag | Aufgabe | Zeit | Anki |
 |---|---|---|---|
-| **1** | **Anki einrichten** (Kap. 11) + **Kap. 1 Grundbegriffe** vollständig lesen und Übungen machen | 90 min | Karten K1.\* freischalten |
+| **1** | **Kap. 0 Schnellstart** (Umfangskalibrierung + **Diagnose-Test**) → danach **Anki einrichten** (Kap. 11) + **Kap. 1 Grundbegriffe** vollständig | 120 min | Karten K1.\* freischalten |
 | **2** | Kap. 1 Selbstcheck + Klausur-Simulation wiederholen; **Kap. 2 §1–4** (Vulgärlatein, Romanisierung) | 75 min | täglich |
 | **3** | **Kap. 2 §5–7** (Germanen, Araber, erste Zeugnisse, Primärdialekte) + Beispiel-Fading | 75 min | täglich |
 | **4** | Kap. 2 Klausur-Simulation + Selbstcheck | 45 min | täglich |
@@ -59,7 +59,7 @@
 | **11** | **Kap. 5 vollständig** (modernes Spanisch: *pasado compuesto*, Dequeísmo, Entlehnungen) | 90 min | täglich |
 | **12** | **Kap. 6 §1–2** (Lautwandel-Herleitungen, **DOM-Skalen**) | 90 min | täglich |
 | **13** | **Kap. 6 §3–4** (gestaffelte Determinanten, **Negation**) + Klausur-Simulation | 75 min | täglich |
-| **14** | **Puffertag.** Alle sechs Selbstchecks durchgehen. Was nicht abgehakt ist: gezielt nachlesen. | 60 min | täglich |
+| **14** | **Puffertag.** **Diagnose-Test aus Kap. 0 wiederholen** — der Score zeigt dir schwarz auf weiß den Fortschritt. Danach alle sechs Selbstchecks durchgehen; was nicht abgehakt ist, gezielt nachlesen. | 75 min | täglich |
 
 > ⚠️ **Wenn du in Verzug gerätst:** Kürze bei den **Kontextwissen**-Abschnitten (Quellen des Vulgärlateins, Werke Alfons X., Sprachpolitik des 20. Jh.s, Eroberungsdetails Amerikas). **Kürze niemals** Kap. 3 §4 (Pronominalsyntax), Kap. 4 §2–4 (Sibilanten, *-ismos*) oder Kap. 6 §2 (DOM).
 

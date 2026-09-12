@@ -123,9 +123,22 @@ Lerne diese drei Schritte als **Nummernfolge mit Jahrhundert und Fachterminus**.
 
 > **/ts/ > /s/** und **/dz/ > /z/**
 
-Das Ergebnis: aus sechs Phonemen werden **vier**, denn /ts/→/s/ und /dz/→/z/ fallen mit den bereits existierenden /s/ und /z/ zusammen — genauer gesagt existieren nun ein **dentales** und ein **apikales** Paar nebeneinander.
-
 *Terminus:* **Entaffrizierung** = eine Affrikate (Verschluss + Reibung, wie [ts]) verliert ihren Verschlussanteil und wird zum reinen Reibelaut.
+
+> ### ⭐⭐ Achtung: In Schritt 1 fällt noch NICHTS zusammen
+> Ein naheliegender Denkfehler ist, dass /ts/ und /dz/ nach der Entaffrizierung mit den vorhandenen /s/ und /z/ verschmelzen. **Das tun sie nicht.** Nach Schritt 1 existieren weiterhin **sechs** Phoneme — sie sind nur alle **Frikative** geworden:
+>
+> | Herkunft | Artikulationsort | Phoneme |
+> |---|---|---|
+> | aus den Affrikaten ⟨ç⟩/⟨z⟩ | **dental** | /s/ – /z/ |
+> | die alten ⟨ss⟩/⟨s⟩ | **apikal** (alveolar) | /s/ – /z/ |
+> | die alten ⟨x⟩/⟨j,g⟩ | **präpalatal** | /ʃ/ – /ʒ/ |
+>
+> Es entstehen also **zwei s-Reihen** nebeneinander, die sich nur noch durch den **Artikulationsort** unterscheiden (dental vs. apikal) — vorher unterschieden sie sich zusätzlich durch die Artikulations**art** (Affrikate vs. Frikativ).
+>
+> **Und genau darin liegt die Ursache der beiden folgenden Schritte:** Die Entaffrizierung hat ein Unterscheidungsmerkmal **beseitigt** und damit das System instabil gemacht. Die Laute liegen nun gefährlich nah beieinander — was erst die **Desonorisierung** (Schritt 2 reduziert 6 → 3) und dann die **räumliche Auseinanderziehung** (Schritt 3) nach sich zieht.
+>
+> **Merke die Kette als Dominoeffekt:** Artikulationsart verloren → Laute zu ähnlich → Stimmhaftigkeit verloren → noch ähnlicher → Artikulationsort auseinandergezogen. **Ein Verlust erzwingt den nächsten.** Wer das erzählen kann, hat den Wandel verstanden statt drei Schritte auswendig gelernt.
 
 #### Schritt 2 — Aufhebung der Sonoritätsopposition / Desonorisierung (16. Jh.)
 
@@ -162,14 +175,18 @@ Das Ergebnis: aus sechs Phonemen werden **vier**, denn /ts/→/s/ und /dz/→/z/
 > ### ⭐⭐ Die Bewegung in einem Bild
 >
 > ```
-> ALTSPANISCH (6)   →  Schritt 1 (15. Jh.)  →  Schritt 2 (16. Jh.)  →  Schritt 3 (bis 1650)
-> /ts/  /dz/           Entaffrizierung          Desonorisierung          Verlagerung
-> /s/   /z/                  ↓                        ↓                       ↓
-> /ʃ/   /ʒ/            /s/ /z/ (dental)         dentales /s/    →  vorne →  /θ/  interdental
->                      /s/ /z/ (apikal)         apikales  /s/   →  bleibt → /s/  apikal
->                      /ʃ/ /ʒ/                  präpalat. /ʃ/   →  hinten → /x/  velar
-> 6 Phoneme            4 Phoneme                3 Phoneme                3 Phoneme
+> ALTSPANISCH        →  Schritt 1 (15. Jh.)  →  Schritt 2 (16. Jh.)  →  Schritt 3 (bis 1650)
+>                       Entaffrizierung          Desonorisierung          Verlagerung
+> /ts/ /dz/  ⟨ç⟩⟨z⟩       /s/ /z/  dental        dentales /s/    →  vorne →  /θ/  interdental
+> /s/  /z/   ⟨ss⟩⟨s⟩      /s/ /z/  apikal        apikales  /s/   →  bleibt → /s/  apikal
+> /ʃ/  /ʒ/   ⟨x⟩⟨j,g⟩     /ʃ/ /ʒ/  präpalatal    präpalat. /ʃ/   →  hinten → /x/  velar
+>
+> 6 Phoneme             6 Phoneme                3 Phoneme                3 Phoneme
+> (3 Paare, teils       (3 Paare, alle          (Sonoritäts-             (Artikulationsorte
+>  Affrikaten)           Frikative)               opposition weg)          auseinandergezogen)
 > ```
+>
+> **Lies die Zahlenzeile genau:** Der Bestand sinkt **erst in Schritt 2** von 6 auf 3. Schritt 1 ändert nur die Artikulations**art**, Schritt 3 nur den Artikulations**ort** — beide lassen die Phonemzahl unberührt.
 >
 > **Merksatz für die drei Schritte:** **E–D–V** — **E**ntaffrizierung (15.), **D**esonorisierung (16.), **V**erlagerung (bis 1650).
 
@@ -483,7 +500,7 @@ Die „vielschichtige varietätenlinguistische Landschaft" entsteht durch **fün
 | **1492** | **Vier Ereignisse:** Eroberung **Granadas** (= Abschluss Reconquista) · **Kolumbus** · **Nebrijas Grammatik** · **Vertreibung der Juden** (→ **Sepharden** ins Osmanische Reich/Nordafrika) | 1492 = **15.** Jh.! | ⭐⭐ |
 | **Nebrija** | *Gramática de la lengua castellana*, **erste gedruckte Grammatik einer romanischen Sprache**; **fünf** Bücher: Orthographie, Metrik/Prosodie, Etymologie, Syntax, Lehrwerk für Nichtmuttersprachler | — | ⭐⭐ |
 | **Sibilantenwandel** | **Ende 14. – Mitte 17. Jh.**; **drei Schritte E–D–V** | s. u. | ⭐⭐⭐ |
-| ↳ Schritt 1 | **Entaffrizierung** (v. a. 15. Jh.): /ts/ > /s/, /dz/ > /z/ | 6 → 4 Phoneme | ⭐⭐ |
+| ↳ Schritt 1 | **Entaffrizierung** (v. a. 15. Jh.): /ts/ > /s/, /dz/ > /z/ | **6 → 6** Phoneme (nur die Artikulations**art** ändert sich; es entstehen **zwei s-Reihen**: dental + apikal) | ⭐⭐ |
 | ↳ Schritt 2 | **Aufhebung der Sonoritätsopposition / Desonorisierung** (16. Jh.), Grund: **geringe funktionale Auslastung** → **dentales /s/, apikales /s/, präpalatales /ʃ/** | 4 → 3 Phoneme | ⭐⭐ |
 | ↳ Schritt 3 | **Verlagerung der Artikulationsstellen** (bis ca. **1650**): dental → **/θ/** interdental; apikal bleibt **/s/**; präpalatal → **/x/** velar | Grund: Verwechslungsgefahr im gemeinsamen Artikulationsraum | ⭐⭐ |
 | **Großraum-Varietäten** | **Nord-Kastilien + Toledo + Murcia + Westandalusien (knappes Drittel):** 3 Phoneme /θ/, /s/, /x/ — **Rest Andalusiens + Kanaren + Lateinamerika:** 2 Phoneme /s/, /h/ | /h/ mit Allophonen [ç], [x], [h] | ⭐⭐ |

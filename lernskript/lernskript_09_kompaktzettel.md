@@ -44,7 +44,8 @@
 ## MITTELSPANISCH
 - **Nebrija 1492**: **erste gedruckte Grammatik einer romanischen Sprache**, **5** Bücher (letztes: für Nichtmuttersprachler) · Kastilianisierung Aragóns/Leóns **um 1500** fertig
 - **SIBILANTENWANDEL E–D–V** (Ende 14. – Mitte 17. Jh.):
- **1. Entaffrizierung** (15. Jh.) /ts/>/s/, /dz/>/z/ → **2. Desonorisierung** (16. Jh.), Grund **geringe funktionale Auslastung** → 3 Phoneme (dental /s/, apikal /s/, präpalatal /ʃ/) → **3. Verlagerung** (bis **1650**), Grund **Verwechslungsgefahr**: dental → **vorn** = **/θ/** · apikal bleibt **/s/** · präpalatal → **hinten** = **/x/**
+ **1. Entaffrizierung** (15. Jh.) /ts/>/s/, /dz/>/z/ — **noch 6 Phoneme!** Es entstehen 2 s-Reihen (dental + apikal) → **2. Desonorisierung** (16. Jh.), Grund **geringe funktionale Auslastung** → **erst jetzt 3 Phoneme** (dental /s/, apikal /s/, präpalatal /ʃ/) → **3. Verlagerung** (bis **1650**), Grund **Verwechslungsgefahr**: dental → **vorn** = **/θ/** · apikal bleibt **/s/** · präpalatal → **hinten** = **/x/**
+ *Dominoeffekt: Art verloren → zu ähnlich → Stimmhaftigkeit verloren → noch ähnlicher → Ort auseinandergezogen.*
 - **Distinción** = /s/+/θ/ (Nordkastilien, Toledo, Murcia, **Westandalusien ≈ knappes Drittel**) · **Seseo** = nur [s] (Kanaren, **Lateinamerika**, über **Sevilla**) · **Ceceo** = nur [θ] (Cádiz, Málaga, Granada). *Name verrät die Antwort*
 - **Yeísmo** = **Dephonologisierung** /ʎ/ vs. /j/ (*pollo/poyo*), bis Anfang 17. Jh.
 - *amades* > *amaes* → *amáis* (Spanien) / ***amás*** (Río de la Plata = **Voseo**)

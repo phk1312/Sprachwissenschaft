@@ -48,6 +48,7 @@ EOF
   --output="Lernskript_Historia_de_la_lengua_espanola.docx" \
   "$BUILD/titel.md" \
   lernskript_INHALT.md \
+  lernskript_00_schnellstart.md \
   lernskript_00_grundbegriffe.md \
   lernskript_01_vulgaerlatein-romanisierung.md \
   lernskript_02_altspanisch.md \

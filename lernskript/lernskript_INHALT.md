@@ -30,7 +30,8 @@ Schriftlich, **90 Minuten, 30 Punkte, keine Hilfsmittel**. Notenschlüssel: 0–
 
 ### Empfohlene Reihenfolge
 
-1. **Kap. 1** (Grundbegriffe) zuerst und vollständig — ohne diese fünf Begriffspaare ist der Rest nicht verständlich.
+0. **Kap. 0** (Schnellstart) **ganz zuerst** — 25 Minuten. Es kalibriert, wie lang eine Klausurantwort sein muss (die Musterlösungen sind absichtlich länger!), verortet dich mit einem Diagnose-Test und enthält Notfallpfade, falls die Zeit knapp wird.
+1. **Kap. 1** (Grundbegriffe) dann vollständig — ohne diese fünf Begriffspaare ist der Rest nicht verständlich.
 2. **Kap. 2–6** chronologisch, je Kapitel: Roter Faden → Erklärung → Tabelle → Beispiel-Fading → Glossar → Karteikarten → Klausur-Simulation → Selbstcheck.
 3. **Kap. 7–10** parallel ab Tag 8 (das sind deine Werkzeuge, nicht neuer Stoff).
 4. **Kap. 11** (Anki-Export) am **ersten Tag** einrichten, nicht am Ende.
@@ -39,6 +40,12 @@ Schriftlich, **90 Minuten, 30 Punkte, keine Hilfsmittel**. Notenschlüssel: 0–
 ---
 
 ## Inhaltsverzeichnis
+
+### Teil 0 — Einstieg
+
+| Kap. | Datei | Inhalt | Priorität |
+|---|---|---|---|
+| **0** | `lernskript_00_schnellstart.md` | **Umfangskalibrierung** (wie lang muss eine Antwort sein?), **Diagnose-Test** mit Routing, **Notfallpfade** für 10 / 4 / 1 Stunde Restzeit, Quellenkonvention | ⭐⭐⭐ — **zuerst lesen, 25 Minuten** |
 
 ### Teil 1 — Grundlagen
 

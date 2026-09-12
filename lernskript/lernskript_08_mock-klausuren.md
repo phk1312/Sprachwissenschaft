@@ -44,9 +44,9 @@ Beurteilen Sie die folgenden Aussagen als **richtig (R)** oder **falsch (F)**.
 
 **2.1** Erklären Sie den Begriff **Diglossie** und geben Sie zwei Beispiele. *(4 P.)*
 
-**2.2** Erklären Sie den Begriff **Mesoklise** und geben Sie zwei Beispiele. *(3 P.)*
+**2.2** Erklären Sie den Begriff **Grammatikalisierung** und geben Sie zwei Beispiele aus der spanischen Sprachgeschichte. *(3 P.)*
 
-**2.3** Erklären Sie, was man unter **Erbwörtern, halbgelehrten Wörtern und Cultismos** versteht, und geben Sie zu jeder Gruppe ein Beispiel. *(3 P.)*
+**2.3** Erklären Sie den Unterschied zwischen **Primärdialekt und Sekundärdialekt** und geben Sie zu jedem ein Beispiel. *(3 P.)*
 
 ---
 
@@ -105,11 +105,11 @@ Beurteilen Sie die folgenden Aussagen als **richtig (R)** oder **falsch (F)**.
 
 ## Aufgabe 2 — Typ 2: Freie Wissensfragen (10 Punkte)
 
-**2.1** Erklären Sie den Begriff **Superstrat** und geben Sie zwei Beispiele für den Einfluss eines Superstrats in der spanischen Sprachgeschichte. *(4 P.)*
+**2.1** Erklären Sie, was man unter dem **Perfektauxiliar *ser*** im Altspanischen versteht, und geben Sie zwei Beispiele. *(4 P.)*
 
-**2.2** Beschreiben Sie die **Umstrukturierung des Sibilantensystems** in ihren einzelnen Schritten und nennen Sie zwei Folgen. *(4 P.)*
+**2.2** Erklären Sie die Begriffe **Seseo, Ceceo und Distinción** und geben Sie zu jedem an, in welchem Gebiet er auftritt. *(4 P.)*
 
-**2.3** Erklären Sie den Begriff ***calco semántico*** und geben Sie zwei Beispiele. *(2 P.)*
+**2.3** Erklären Sie den Begriff **Vokalepenthese** und geben Sie zwei Beispiele. *(2 P.)*
 
 ---
 
@@ -169,7 +169,7 @@ Beurteilen Sie die folgenden Aussagen als **richtig (R)** oder **falsch (F)**.
 
 ## Aufgabe 2 — Typ 2: Freie Wissensfragen (10 Punkte)
 
-**2.1** Erklären Sie den Begriff **differentielle Objektmarkierung (DOM)** und geben Sie zwei Beispiele. Nennen Sie außerdem die beiden Skalen, die DOM steuern. *(4 P.)*
+**2.1** Beschreiben Sie den Wandel des **Anredesystems** vom Mittelalter bis zur Gegenwart und erklären Sie, wie die Form ***usted*** entstanden ist. *(4 P.)*
 
 **2.2** Erklären Sie den Begriff **Dequeísmo** und nennen Sie die drei Erklärungsversuche, die dafür vorgeschlagen wurden. *(4 P.)*
 
@@ -215,6 +215,15 @@ Beurteilen Sie die folgenden Aussagen als **richtig (R)** oder **falsch (F)**.
 > **Erst nach Ablauf der 90 Minuten lesen.**
 >
 > **Bewertungshinweis:** Bei Typ 2 gibt es Punkte für **Definition** *und* **Beispiele** — eine Definition ohne die geforderte Anzahl Beispiele ist unvollständig. Bei Typ 1 gibt es Punkte für **Terminus**, **Kontrast zum heutigen Spanisch** und **begründete Datierung**.
+>
+> **⭐⭐ Wie du diese Lösungen liest — wichtig.** Die Typ-2-Lösungen sind in **Kern** und **Zusatz** gegliedert:
+>
+> - Der **Kern** ist die **Minimalantwort**, die die Punkte holt: Definition + Mechanismus + geforderte Beispiele, etwa **5–8 Sätze in 9–12 Minuten**. **Das ist es, was du in der Klausur schreiben sollst.**
+> - Der **Zusatz** ist nach **absteigendem Nutzen** sortiert. Arbeite ihn nur ab, wenn Zeit übrig ist — und dann von oben nach unten.
+>
+> **Vergleiche deine Antwort deshalb zuerst nur mit dem Kern.** Trifft dein Text den Kern, hast du die Aufgabe gelöst — auch wenn er kürzer ist als die Musterlösung. Zur Umfangskalibrierung und zum ausgearbeiteten Vergleich „Minimalantwort vs. Maximalantwort" siehe **Kap. 0 §1**.
+>
+> *Die Musterlösungen in den Einzelkapiteln 1–6 sind dagegen bewusst als **Maximalantworten** geschrieben, weil sie dort zugleich Verständnismaterial sind. Markiere dir beim Durcharbeiten selbst die ersten drei bis vier Sätze als Kern.*
 
 ---
 ---
@@ -248,27 +257,31 @@ Beurteilen Sie die folgenden Aussagen als **richtig (R)** oder **falsch (F)**.
 >
 > **Sprachhistorische Relevanz** *(Zusatzpunkt):* Die Diglossie erklärt, warum wir das Vulgärlatein nur **indirekt** kennen — als low variety wurde es nicht geschrieben. Und ihre **Bewusstwerdung** im Zuge der **Karolingischen Reform (ca. 800)** führte dazu, dass man begann, die tatsächlich gesprochene Sprache zu verschriften — daraus entstanden die ersten romanischen Schriftzeugnisse (HO3, 5).
 
-**2.2 Mesoklise (3 P.)**
+**2.2 Grammatikalisierung (3 P.)**
 
-> **Mesoklise** bezeichnet die Stellung eines **klitischen Pronomens zwischen den beiden Bestandteilen** des analytischen Futurs bzw. Konditionals — also zwischen dem **Infinitiv** und der **Präsens- bzw. Imperfektform von *habere***.
+> **Kern:** Als **Grammatikalisierung** bezeichnet man den Vorgang, bei dem sich ein **lexikalischer Ausdruck in eine grammatische Konstruktion verwandelt** — und dabei „entsteht eine neue Verbalform bzw. Verbalkategorie" (HO2, 3.2). Das Wort verliert seine ursprüngliche Bedeutung und wird zum bloßen Grammatikbaustein.
 >
-> **Voraussetzung:** Futur und Konditional gehen auf die periphrastische Konstruktion *cantare habeo* / *cantare habebam* zurück. „Beide Bestandteile wurden zunächst noch als **autonom** interpretiert", weshalb „das klitische Pronomen zwischen ihnen eingefügt werden konnte" (HO4, 5.2). Zwei autonome Wörter haben eine Fügungsstelle, in die ein Klitikum rutschen kann.
+> **Zwei Beispiele:** (1) Lat. *habere* ‚haben, besitzen' wird zum **Perfektauxiliar**: *habeo cantatum* > *he cantado*. (2) Dasselbe *habere* wird zur **Futurendung**: *cantare habeo* > *cantar + he* > *cantaré*.
 >
-> **Zwei Beispiele:** (1) *si yo bivo, **doblarvos he** la soldada!* (*Poema de Mio Cid* I, 80) — heute *os doblaré*. (2) ***nafregarsan*** in den *Glosas Emilianenses* — heute *se ahogarán*.
->
-> **Chronologie:** Die Einfügung ist im **17. Jh. nicht mehr möglich** (HO5, 2.2), weil der **Grammatikalisierungsprozess** abgeschlossen ist und Futur und Konditional nun als **synthetische** Formen interpretiert werden. Mesoklise ist daher ein besonders trennscharfes Datierungsmerkmal, da sie — anders als die Enklise — im modernen Spanisch keine Überlebensnische hat.
+> **Zusatz, in dieser Reihenfolge wertvoll:**
+> 1. **Der Abschluss ist datierbar und hat Folgen.** Solange die Bestandteile des Futurs noch autonom sind, kann ein Klitikum dazwischentreten — die **Mesoklise** (*doblarvos he*). Im 17. Jh. ist die Grammatikalisierung abgeschlossen, Futur und Konditional gelten als **synthetische** Formen, und die Mesoklise wird unmöglich (HO5, 2.2).
+> 2. **Der Bedeutungsverlust ist vollständig.** *Aver* verliert im 16. Jh. seine Fähigkeit, **Possession** auszudrücken; diese Funktion übernimmt ausschließlich *tener* (HO5, 2.2). Ein Verb hat sich in zwei Funktionen aufgeteilt.
+> 3. **Weitere Fälle:** analytisches Passiv (*laudatus sum*) und Konditional (*cantare habebam* > *cantaría*); auch *Vuestra Merced* > *usted* ist eine Grammatikalisierung (Nominalphrase → Pronomen).
 
-**2.3 Die drei Wortschatzschichten (3 P.)**
+---
 
-> Das altspanische Wortschatzsystem ist **geschichtet**; das Unterscheidungskriterium ist, **welche lautlichen Entwicklungen ein Wort mitgemacht hat** (HO4, 5.3).
+**2.3 Primär- und Sekundärdialekt (3 P.)**
+
+> **Kern:** Ein **Primärdialekt** (*dialecto primario*) ist eine romanische Varietät, die sich **direkt aus dem Vulgärlatein** entwickelt hat. Ein **Sekundärdialekt** (*dialecto secundario*) hat sich dagegen **aus einem Primärdialekt** entwickelt (HO3, 6.1). Entscheidend ist also die **Abstammung**, nicht die geographische Lage.
 >
-> 1. **Erbwörter (*palabras patrimoniales*)** gehen auf das Vulgärlatein zurück und haben **alle** lautlichen Entwicklungen mitgemacht. Beispiel: *speculum* > ***espejo*** (auch *brachium* > *braço*).
-> 2. **Halbgelehrte Wörter (*palabras semicultas*)** sind ebenfalls in ununterbrochener Kontinuität überliefert, wurden aber **durch den Einfluss der schriftsprachlichen lateinischen Formen geprägt** und sind daher nur **teilweise** den Lautgesetzen unterworfen. Beispiel: *saeculum* > ***siglo*** — und **nicht** \**sejo* (auch *miraculum* > *milagro* statt \**mirajo*).
-> 3. **Buchwörter bzw. gelehrte Wörter (*cultismos*)** sind **direkte lateinische Entlehnungen**, nur geringfügig angepasst. Beispiel: *missione(m)* > ***misión*** (auch *regulare(m)* > *regular*).
+> **Beispiele:** **Kastilisch** ist ein Primärdialekt, weil es direkt aus dem Vulgärlatein hervorging. **Andalusisch** ist ein Sekundärdialekt, weil es sich aus dem **Kastilischen** gebildet hat — „unter den besonderen Sprachkontaktbedingungen in den wiedereroberten Gebieten des Südens".
 >
-> **Ursache:** Latinismen strömten über die gelehrte Dichtung (*mester de clerecía*) und die Wissenschaftsprosa am Hof Alfons des Weisen ein, später durch die Humanismus-Rezeption. Weil diese Wörter **schriftlich präsent** blieben, wurden sie vom Lautwandel teilweise oder ganz verschont: **Schriftlichkeit bremst Lautwandel.**
+> **Zusatz, in dieser Reihenfolge wertvoll:**
+> 1. **Die sechs Primärdialekte** der iberischen Halbinsel: **Mozarabisch, Galicisch-Portugiesisch, Astur-Leonesisch, Kastilisch, Navarro-Aragonesisch, Katalanisch**.
+> 2. **Warum es sechs wurden:** Ein Vulgärlatein, aber überall andere **Substrate**, andere **Romanisierungsintensität** (konservative Baetica vs. innovative Tarraconensis) und andere **Superstrate**.
+> 3. **Der Mechanismus beim Sekundärdialekt:** die ***repoblación*** — die Wiederbesiedlung durch Siedler aus unterschiedlichen Regionen mischt und nivelliert Varietäten und beschleunigt den Wandel.
 >
-> **Zusatz:** Gehen eine volkssprachliche und eine gelehrte Form auf **dasselbe Etymon** zurück, spricht man von einer **Dublette**, typischerweise mit semantischem Unterschied — z. B. *strictu(m)* > *estricto* ‚strikt' vs. *estrecho* ‚eng'.
+> 🪤 **Die Falle:** Das Andalusische liegt im Süden und klingt deutlich anders — das macht es nicht zum Primärdialekt. Nur die Abstammung zählt.
 
 ### Aufgabe 3 — Typ 1 (12 P.)
 
@@ -332,43 +345,45 @@ Beurteilen Sie die folgenden Aussagen als **richtig (R)** oder **falsch (F)**.
 
 ### Aufgabe 2 — Typ 2 (10 P.)
 
-**2.1 Superstrat (4 P.)**
+**2.1 Perfektauxiliar *ser* (4 P.)**
 
-> Als **Superstrat** bezeichnet man die **Muttersprache eines Eroberervolkes**, die meist nach einer **Phase der Zweisprachigkeit zugunsten der lokalen Sprache des eroberten Volks aufgegeben** wird — „allerdings nicht ohne in dieser ihren sprachlichen Einfluss hinterlassen zu haben" (HO3, 3).
+> **Kern:** Im Altspanischen bilden „einige Verben das Perfekt **nicht mit *haber*, sondern mit *ser***" (HO4, 5.2). Das Auxiliar *ser* erscheint bei **zwei** Verbklassen: bei **reflexiven** Verben und bei **unakkusativen** Verben. **Unakkusative Verben** sind eine „Untergruppe der intransitiven Verben, deren **erstes Argument sich syntaktisch wie ein direktes Objekt verhält**" — praktisch sind es Verben der **Bewegung** und der **Zustandsveränderung**.
 >
-> Wie Substrat und Adstrat ist Superstrat ein **Relationsbegriff**: Er beschreibt eine Sprache im **Verhältnis** zu einer anderen. Der Unterschied zum **Substrat** liegt darin, wessen Sprache untergeht: beim Superstrat die der **Eroberer**, beim Substrat die der **Eroberten**.
+> **Zwei Beispiele:** (1) *ir* → ***son** idos* (heute *han ido*). (2) *entrar* → ***eran** entrados* (heute *habían entrado*). *(Ebenso *fue llegado*, *son venidos*, *exidos somos*, reflexiv *se era alçado*.)*
 >
-> Das prototypische Beispiel der spanischen Sprachgeschichte ist das **Westgotische**. Die Westgoten verlegten nach der Niederlage bei Vouillé (507) ihren Herrschaftsmittelpunkt auf die Halbinsel und machten 568 Toledo zur Hauptstadt; ihre Romanisierung begann mit der Konversion König **Rekkareds** vom Arianismus zum Katholizismus, und die Integration führte im **7. Jh. zum Verlust der gotischen Sprache**.
->
-> **Zwei Beispiele für hinterlassene Spuren:** (1) **Lexeme** wie *ganso*, *ganar*, *sacar* sowie Personen- und Ortsnamen wie *Alfonso* und *Gonzalo*. (2) Das **Suffix *-ingo* > *-engo***, das im Spanischen produktiv wurde, z. B. in *realengo* ‚Krongut'.
->
-> *(Das Handout benennt ausdrücklich nur das Germanische als Superstrat; das Arabische wird in der Transkription im selben Zusammenhang behandelt, hinterließ aber vor allem lexikalische Spuren.)*
+> **Zusatz, in dieser Reihenfolge wertvoll:**
+> 1. **Das Ende ist datierbar:** *Aver* wird „im Lauf des **16. Jh.s** zum **alleinigen** Auxiliar für zusammengesetzte Zeiten" (HO5, 2.2). Ein Perfekt mit *ser* datiert einen Satz damit **vor ca. 1600** — ein trennscharfes Merkmal, da es heute nirgends mehr existiert.
+> 2. **Es ist ein Erbe, kein Sonderweg:** Der Zustand geht teilweise auf die lateinischen **Deponentien** zurück, die ihr Perfekt mit *esse* bildeten (*mori* → *mortuus sum*), und ist gemeinromanisch — erhalten im **Italienischen** (*sono nato*) und **Französischen** (*je suis né*). **Das Spanische hat etwas verloren, nicht etwas erfunden.**
+> 3. **Warum gerade diese Verben:** Das Subjekt unakkusativer Verben *erleidet* das Geschehen, statt zu handeln — es verhält sich wie ein Objekt. Deshalb wählt es das Kopula-artige *ser*.
 
-**2.2 Umstrukturierung des Sibilantensystems (4 P.)**
+---
 
-> **Ausgangspunkt:** Das **Altspanische** besaß **drei Sibilantenpaare** in Opposition, also **sechs** Sibilantenphoneme: die dento-alveolaren Affrikaten **/ts/** (⟨ç⟩, *braço*) und **/dz/** (⟨z⟩, *dezir*), die alveolaren Frikative **/s/** (⟨ss⟩, *osso* ‚Bär') und **/z/** (⟨s⟩, *oso* ‚ich wage') sowie die präpalatalen Frikative **/ʃ/** (⟨x⟩, *caxa*) und **/ʒ/** (⟨j, g⟩, *ojo*).
->
-> Der Wandel dauerte „etwa vom **Ende des 14. Jh.s** bis zur **Mitte des 17. Jh.s**" und vollzog sich in **drei Schritten** (HO5, 2.1.1):
->
-> 1. **Entaffrizierung** (vor allem 15. Jh.): Die beiden Affrikaten werden zu Frikativen vereinfacht — **/ts/ > /s/** und **/dz/ > /z/**.
-> 2. **Aufhebung der Sonoritätsopposition (Desonorisierung)** im 16. Jh. Sie „erklärt sich vor allem aus der **geringen funktionalen Auslastung**" dieser Opposition — es gab kaum Minimalpaare, die sie stützten. Ergebnis: **drei Phoneme** — dentales /s/, apikales /s/, präpalatales /ʃ/.
-> 3. **Differenzierung durch Verlagerung der Artikulationsstellen** (bis ca. **1650**), weil die drei Phoneme in einem **gemeinsamen Artikulationsraum** (dental bis präpalatal) **verwechselbar** waren: Das dentale /s/ wird weiter nach **vorn** verlagert und schließlich **interdental /θ/**; der präpalatale Frikativ wird nach **hinten** verschoben, zunächst mediopalatal, schließlich **velar /x/**. Das apikale /s/ bleibt.
->
-> **Endergebnis: drei Phoneme — /θ/, /s/, /x/.**
->
-> **Zwei Folgen:**
-> **(1) Lautlich-orthographisch:** *dezir* > *decir* [deθir], *caxa* > *caja* [kaxa], *osso* und *oso* werden homophon. Von sechs Sibilanten bleiben drei.
-> **(2) Varietätenlinguistisch:** Es entstehen die **beiden Großraum-Varietäten** des Spanischen (HO5, 2.1.2). Der nördliche Teil Kastiliens — mit Toledo, Murcia und den Gebieten **Westandalusiens**, die etwa ein knappes Drittel Andalusiens ausmachen — verfügt über **drei** Phoneme (/θ/, /s/, /x/), also **Distinción**. Der größere Teil Andalusiens, die **kanarischen Inseln** und **Lateinamerika** besitzen nur **zwei** Phoneme (/s/ und /h/), wobei /s/ als [s] im **Seseo** und als [θ] im **Ceceo** realisiert wird. Die Verbreitung des Seseo nach Übersee erfolgte vor allem von **Sevilla** aus.
+**2.2 Seseo, Ceceo und Distinción (4 P.)**
 
-**2.3 *Calco semántico* (2 P.)**
+> **Kern:** Die drei Begriffe bezeichnen Varietäten, die sich danach unterscheiden, **ob sie die Phoneme /s/ und /θ/ besitzen** — hörbar am Paar *casa* / *caza*:
+>
+> | Terminus | Phonembestand | *casa* / *caza* | Gebiet |
+> |---|---|---|---|
+> | **Distinción** | **/s/ und /θ/** | **unterschieden**: [s] ≠ [θ] | nördlicher Teil Kastiliens **mit Toledo und Murcia** sowie **Westandalusien** (ein knappes Drittel Andalusiens) |
+> | **Seseo** | nur **/s/** | gleich, beide **[s]** | nördliche Teile Andalusiens; **kanarische Inseln** und **Lateinamerika** |
+> | **Ceceo** | nur **/θ/** | gleich, beide **[θ]** | Küste von Almería bis zur portugiesischen Grenze; **Cádiz, Málaga, Granada** |
+>
+> **Zusatz, in dieser Reihenfolge wertvoll:**
+> 1. **Die Entstehung:** Alle drei sind Ergebnis der **Umstrukturierung des Sibilantensystems** (Ende 14. bis Mitte 17. Jh.). Sie führte zur Herausbildung der **beiden Großraum-Varietäten**: Nordkastilien behält **drei** Phoneme (/θ/, /s/, /x/), der Süden samt Übersee nur **zwei** (/s/ und /h/) (HO5, 2.1.2).
+> 2. **Präzisierung zum Phonembegriff:** Seseo- und Ceceo-Gebiete haben **dasselbe** Phonem /s/ — sie **realisieren** es nur unterschiedlich, als [s] bzw. [θ]. Der Unterschied liegt also nicht im Bestand, sondern in der Realisierung.
+> 3. **Der Verbreitungsweg:** Der Seseo kam „dank der vor allem von **Sevilla** ausgehenden überseeischen Expansion" auf die Kanaren und nach Lateinamerika — daher ist er dort die Regel. Begünstigt wurde die Vereinfachung im Süden durch das Aufeinandertreffen der Varietäten der **Neusiedler** (Becker 11.4).
+>
+> 🪤 **Zwei Fallen:** (a) **Andalusien ist gespalten** — Westandalusien gehört zur **Distinción**, nicht zum Seseo/Ceceo. (b) Die Namen verraten die Antwort: *Se*seo → [s], *Ce*ceo → [θ].
 
-> Ein ***calco semántico*** ist die **Übernahme bzw. Entlehnung einer zusätzlichen Bedeutung** aus einer anderen Sprache — im Spanischen des 20. Jh.s vor allem aus dem **Englischen** —, wobei die Übernahme „**durch die Ähnlichkeit der Ausdrucksseite begünstigt**" wird (HO6, 2.3).
+---
+
+**2.3 Vokalepenthese (2 P.)**
+
+> **Kern:** Als **Vokalepenthese** bezeichnet man den **Einschub eines Vokals** — im Spanischen eines **prothetischen *e* oder *i*** vor ***s* + Konsonant im Wortanlaut**, „zur Erleichterung der Aussprache" (HO2, 3.1). Der Prozess entstand im **Vulgärlatein** und hat sich in der **Westromania** erhalten.
 >
-> **Entscheidend:** Es wird **kein neues Wort** entlehnt. Das Wort existiert bereits im Spanischen und erhält lediglich eine **weitere Bedeutung** hinzu; Voraussetzung ist die **formale Ähnlichkeit** zum fremdsprachigen Wort.
+> **Zwei Beispiele:** (1) *spatha* > span. ***espada*** (frz. *épée*). (2) engl. *snob* > span. ***esnob***.
 >
-> **Zwei Beispiele:** (1) ***asumir*** bedeutete ‚übernehmen' und erhielt nach engl. *to assume* zusätzlich ‚**vermuten**'. (2) ***crucial*** bedeutete ‚kreuzförmig' und erhielt nach engl. *crucial* zusätzlich ‚**entscheidend**'. *(Ebenso *serio* ‚ernst' → auch ‚wichtig'.)*
->
-> **Abgrenzung:** Von der **direkten Entlehnung** (das Wort selbst wird übernommen: *fútbol*, *líder*, *esnob*) und von der **Lehnprägung** (das Wortbildungsmuster wird Glied für Glied übersetzt: *supermercado* < supermarket, *alta fidelidad* < high fidelity, *aire acondicionado* < air conditioning).
+> **Zusatz:** Das zweite Beispiel ist das eigentlich Bemerkenswerte: Die Regel ist **im heutigen Spanischen noch produktiv** und „kommt … bei der Entlehnung von Fremdwörtern, vor allem bei **Anglizismen**, zur Anwendung" (HO2, 3.1). Ein vulgärlateinischer Prozess arbeitet also bis heute weiter — ein besonders dankbares Beispiel dafür, dass Lautgesetze nicht bloß historische Kuriositäten sind. *(Terminus für den Einschub am Wortanfang genauer: **Prothese**.)*
 
 ### Aufgabe 3 — Typ 1 (12 P.)
 
@@ -434,20 +449,19 @@ Beurteilen Sie die folgenden Aussagen als **richtig (R)** oder **falsch (F)**.
 
 ### Aufgabe 2 — Typ 2 (10 P.)
 
-**2.1 DOM (4 P.)**
+**2.1 Anredesystem und die Entstehung von *usted* (4 P.)**
 
-> Als **differentielle Objektmarkierung (DOM)** bezeichnet man die **Kennzeichnung des direkten Objekts mit einer Präposition** — im Spanischen mit ***a***, im **Rumänischen** mit *pe*. Die Markierung heißt **differentiell**, weil **nicht alle** direkten Objekte gleich behandelt, sondern nach **semantischen Kriterien differenziert** werden (HO7, 2.1). DOM ist in **allen Varietäten** des Spanischen stark ausgeprägt.
+> **Kern:** Das **mittelalterliche** System kannte ***tú*** als **vertrauliche** und ***vos*** als **höfliche bzw. respektvolle** Anrede. Der Wandel verläuft in **zwei komplementären Bewegungen** (HO5, 2.2):
 >
-> **Die beiden steuernden Skalen** (HO7, 2.2), beide sprachübergreifend relevant:
-> 1. Die **Belebtheitsskala**, auch **Inhärenzskala**: Es geht um **inhärente**, unveränderliche semantische Merkmale des Objekts (*Juan* ist inhärent [+menschlich], *casa* inhärent [−belebt]). Stufen: menschlich > belebt > unbelebt.
-> 2. Die **Definitheitsskala**, auch **Referenzskala**: Es geht um die im jeweiligen Kontext **wechselnde Referenz** — je nach Kontext setzt der Sprecher den bestimmten, unbestimmten oder gar keinen Artikel. Stufen: Pronomen > Eigenname > definite NP > spezifisch indefinite NP > unspezifische NP.
+> 1. ***Vos* sinkt ab:** Es „verliert **seit dem 15. Jh.** seinen gehobenen Status zunehmend" und konkurriert **zwischen dem 16. und dem 18. Jh. mit *tú* als Näheform**.
+> 2. **Neue Höflichkeitsformen entstehen:** **Ab dem 15. Jh.** treten Formen wie ***Vuestra Alteza***, ***Vuestra Señoría*** und ***Vuestra Merced*** an ihre Stelle. „Durch ihre alltägliche Verwendung bilden sich Kurzformen (**Allegroformen**)": *vuesarced, vuesaste, voace, vuce, vusted* — und schließlich ***usted***.
 >
-> **Grundprinzip:** Objekte, die **höher** auf der Belebtheitsskala stehen bzw. **definit** sind, werden **markiert**; niedriger stehende bzw. indefinite bleiben **unmarkiert**.
+> **Zusatz, in dieser Reihenfolge wertvoll:**
+> 1. **Warum *usted* mit der 3. Person steht:** Es war ursprünglich keine Pronominalform, sondern eine **Nominalphrase** (*Vuestra Merced* ‚Euer Gnaden'). Die Kongruenz mit der 3. Person ist der versteinerte Rest davon. Der ganze Vorgang ist eine **Grammatikalisierung**: lexikalischer Ausdruck → grammatisches Element.
+> 2. **Das Ergebnis sind drei Zonen:** **Voseo** (*vos* setzt sich durch): Argentinien, Uruguay, Paraguay · **Tuteo** (*tú* setzt sich durch): México, Perú, Bolivien, karibischer Raum · **Konkurrenz** bzw. unterschiedliche soziolinguistische Markierung: Chile, Ecuador, Kolumbien.
+> 3. **Der zugrunde liegende Mechanismus:** ein **Kreislauf sprachlicher Höflichkeit**. Eine Höflichkeitsform wird inflationär gebraucht, verliert dadurch ihren Wert, wird durch eine überschwängliche Neubildung ersetzt — und diese schleift sich ihrerseits ab. Dasselbe Prinzip zeigt sich bei *nosotros/vosotros*, die ihren „betonenden Charakter" verlieren und zur neutralen Form werden.
 >
-> **Zwei Beispiele:** (1) *Veo **a** Juan* — markiert (menschlich, Eigenname). (2) *Veo una casa* — unmarkiert (unbelebt, indefinit).
->
-> **Ursache** *(Zusatzpunkt):* DOM entsteht als Folge des **Kasusabbaus**. Wo lat. *puella puellam videt* Subjekt und Objekt durch **Kasusendungen** unterschied, ist frz. *la fille voit la fille* formal ambig. Das Spanische entwickelt ein „neues System zur Differenzierung von Subjekt und direktem Objekt: präpositionale Markierung von direkten Objekten, die **von ihrer Semantik her eher zur Subjektfunktion tendieren**" (HO7, 2.3), z. B. *La muchacha ve **a** la muchacha*. Weil typische Subjekte belebt und menschlich sind, sind menschliche **Objekte** verwechslungsgefährdet — und genau sie werden markiert.
-
+> 🪤 **Die Falle:** Im modernen **Voseo** ist *vos* die **Näheform**, nicht die Höflichkeitsform — es hat seinen ursprünglichen Wert ja gerade verloren. Höflich war *vos* nur im **mittelalterlichen** System.
 **2.2 Dequeísmo (4 P.)**
 
 > Als **Dequeísmo** bezeichnet man die **überflüssige Verwendung der Präposition *de*** in Verbindung mit der unterordnenden Konjunktion *que* (HO6, 2.2), z. B. *Pienso **de** que es difícil salir de esta situación*.
