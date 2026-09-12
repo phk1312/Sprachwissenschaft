@@ -30,7 +30,8 @@ Schriftlich, **90 Minuten, 30 Punkte, keine Hilfsmittel**. Notenschlüssel: 0–
 
 ### Empfohlene Reihenfolge
 
-0. **Kap. 0** (Schnellstart) **ganz zuerst** — 25 Minuten. Es kalibriert, wie lang eine Klausurantwort sein muss (die Musterlösungen sind absichtlich länger!), verortet dich mit einem Diagnose-Test und enthält Notfallpfade, falls die Zeit knapp wird.
+0. **Kap. 0** (Schnellstart) **ganz zuerst** — 40 Minuten. Es kalibriert, wie lang eine Klausurantwort sein muss (die Musterlösungen sind absichtlich länger!), verortet dich mit einem Diagnose-Test, rechnet dir die **billigsten 17 Punkte** vor und zeigt an zwei kommentierten Schwachantworten, wie man Punkte verliert, obwohl man den Stoff kennt.
+0b. **Kap. 7 §0** (Altspanisch entschlüsseln) **früh** — spätestens wenn du Kapitel 3 beginnst. Zwölf Leseregeln; ohne sie sind die Typ-1-Sätze nicht analysierbar, und jede Regel ist zugleich ein Datierungsargument.
 1. **Kap. 1** (Grundbegriffe) dann vollständig — ohne diese fünf Begriffspaare ist der Rest nicht verständlich.
 2. **Kap. 2–6** chronologisch, je Kapitel: Roter Faden → Erklärung → Tabelle → Beispiel-Fading → Glossar → Karteikarten → Klausur-Simulation → Selbstcheck.
 3. **Kap. 7–10** parallel ab Tag 8 (das sind deine Werkzeuge, nicht neuer Stoff).
@@ -45,7 +46,7 @@ Schriftlich, **90 Minuten, 30 Punkte, keine Hilfsmittel**. Notenschlüssel: 0–
 
 | Kap. | Datei | Inhalt | Priorität |
 |---|---|---|---|
-| **0** | `lernskript_00_schnellstart.md` | **Umfangskalibrierung** (wie lang muss eine Antwort sein?), **Diagnose-Test** mit Routing, **Notfallpfade** für 10 / 4 / 1 Stunde Restzeit, Quellenkonvention | ⭐⭐⭐ — **zuerst lesen, 25 Minuten** |
+| **0** | `lernskript_00_schnellstart.md` | **Umfangskalibrierung** (wie lang muss eine Antwort sein?), **Diagnose-Test** mit Routing, **Notfallpfade** für 10 / 4 / 1 Stunde Restzeit, **Punkteökonomie** (die billigsten 17 Punkte), **zwei kommentierte Schwachantworten**, **Rettungsstrategie**, Quellenkonvention | ⭐⭐⭐ — **zuerst lesen, 40 Minuten** |
 
 ### Teil 1 — Grundlagen
 
@@ -67,7 +68,7 @@ Schriftlich, **90 Minuten, 30 Punkte, keine Hilfsmittel**. Notenschlüssel: 0–
 
 | Kap. | Datei | Inhalt | Funktion |
 |---|---|---|---|
-| **7** | `lernskript_06_werkzeuge.md` | **Zeit-Fingerabdruck** | Trainingswerkzeug für **Typ 1** — Periode aus Satzmerkmalen bestimmen |
+| **7** | `lernskript_06_werkzeuge.md` | **§0 Altspanisch entschlüsseln** (12 Leseregeln) + **Zeit-Fingerabdruck** | Trainingswerkzeug für **Typ 1** — erst den Satz lesen können, dann die Periode bestimmen |
 | **8** | ″ | **Gesamtglossar** (alphabetisch) | Werkzeug für **Typ 2** |
 | **9** | ″ | **Verwechslungsfallen** (gemischt) | Werkzeug für **Typ 3** |
 | **10** | ″ | **Zeittafel & Gesamtüberblick** (HO8/HO9) | Werkzeug für **Typ 3** (Jahreszahl-Traps) |

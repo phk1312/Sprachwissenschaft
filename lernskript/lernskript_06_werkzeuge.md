@@ -11,6 +11,69 @@
 
 ---
 
+## 0 ⭐⭐⭐ Erst lesen können, dann datieren: Altspanisch entschlüsseln
+
+**Das ist die stille Voraussetzung von Typ 1.** Wer *farien*, *biuen* oder *sopiessen* nicht auflösen kann, kommt gar nicht bis zur Analyse — und in der Klausur gibt es kein Wörterbuch. Die gute Nachricht: Es sind **zwölf Regeln**, und sie decken praktisch alles ab, was dir begegnet.
+
+### 0.1 Die zwölf Leseregeln
+
+Alle Beispiele stammen aus Sätzen, die in diesem Skript vorkommen.
+
+| # | Regel | Beispiel im Text | Heute |
+|---|---|---|---|
+| **1** | ⟨**u**⟩ steht oft für **[v]** | *bi**u**en* · *enprenna**u**a* · *a**u**er* · *ue**z*** | *viven* · *empreñaba* · *haber* · *vez* |
+| **2** | ⟨**f-**⟩ im Anlaut = heutiges ⟨**h-**⟩ | ***f**ijo* · ***f**ablar* · ***f**allaron* · ***f**arien* · ***f**azer* | *hijo* · *hablar* · *hallaron* · *harían* · *hacer* |
+| **3** | ⟨**nn**⟩ = ⟨**ñ**⟩ | *a**nn**os* · *sen**n**alada* · *due**nn**o* | *años* · *señalada* · *dueño* |
+| **4** | ⟨**ss**⟩ = einfaches **[s]** | *sopie**ss**en* · *aprie**ss**a* · *o**ss**o* | *supiesen* · *aprisa* · *oso* |
+| **5** | ⟨**ç**⟩ und ⟨**z**⟩ = heutiges ⟨**c/z**⟩ | *bra**ç**o* · *de**z**ir* · *fuer**ç**a* | *brazo* · *decir* · *fuerza* |
+| **6** | ⟨**x**⟩ = heutiges ⟨**j**⟩ | *de**x**ar* · *ca**x**a* · *di**x**o* · *ba**x**o* | *dejar* · *caja* · *dijo* · *bajo* |
+| **7** | ⟨**i/j**⟩ = **[i]** oder **[ʒ]** — aus dem Kontext erschließen | *macedon**j**a* · *mu**g**ier* · ***i**ogara* | *Macedonia* · *mujer* · *jugará* |
+| **8** | ***non*** = *no* · ***e*** = *y* (‚und') · ***Ca*** = ‚denn' | *…**non** peche* · *mugieres **e** varones* · ***Ca** yo case* | *no pague* · *mujeres **y** varones* · *pues/porque* |
+| **9** | **Imperfekt und Konditional mit *-ie-*** statt *-ía-* | *ten**ie*** · *far**ie**n* · *podr**ie**n* · *iogar**a*** | *tenía* · *harían* · *podrían* · *jugará* |
+| **10** | **Verschmelzungen** von Präposition/Artikel/Pronomen | *si**l*** · *de**llas*** · *d**aquel*** · *el**l** otro* · *co**no*** · *e**na*** | *si le* · *de ellas* · *de aquel* · *el otro* · *con el* · *en la* |
+| **11** | ***ovo*, *fue*, *son*, *eran* + Partizip** = zusammengesetzte Vergangenheit | *le **ovo** dados* · ***son** idos* · ***eran** entrados* | *le había dado* · *han ido* · *habían entrado* |
+| **12** | **Auslautendes *-e* fehlt oder wechselt**; ⟨y⟩ für [i] | *pudier* · *entonce* · *ayna* · *yfantes* | *pudiere* · *entonces* · *aína* · *infantes* |
+
+### 0.2 ⭐⭐ Das Entschlüsselungsverfahren in vier Schritten
+
+Wenn dich ein Wort blockiert, arbeite mechanisch:
+
+| Schritt | Was du tust | Am Beispiel *sopiessen* |
+|---|---|---|
+| **1** | **Doppelkonsonanten vereinfachen** (Regel 3, 4) | *sopiesen* |
+| **2** | **⟨u⟩→v, ⟨f-⟩→h-, ⟨x⟩→j, ⟨ç/z⟩→c/z** ersetzen (Regel 1, 2, 5, 6) | *sopiesen* (nichts zu ändern) |
+| **3** | **Verbendung identifizieren** — *-ssen*, *-ien*, *-an* sind Flexionsendungen (Regel 9) | *-esen* → Imperfekt Konjunktiv, 3. Pl. |
+| **4** | **Wortstamm mit dem modernen Verb abgleichen** | *sop-* ≈ *sup-* → *saber* → **„sie wüssten"** |
+
+**Zweites Beispiel, *farien*:** Regel 2 (*f-* → *h-*) ergibt *harien*; Regel 9 (*-ie-* → *-ía-*) ergibt ***harían*** ‚sie würden tun'. Zwei Regeln, fertig.
+
+> ### ⭐⭐⭐ Der doppelte Nutzen — hier liegt der eigentliche Trick
+> **Jede Regel, die du zum Lesen brauchst, ist gleichzeitig ein Datierungsargument.** Das ist kein Zufall, sondern derselbe Sachverhalt aus zwei Richtungen:
+>
+> | Leseregel | Zugleich Beleg für |
+> |---|---|
+> | ⟨f-⟩ → *h-* (Regel 2) | **etymologische Schreibung** des aspirierten Lauts → Kap. 3 §5.1 |
+> | ⟨ç⟩, ⟨z⟩ (Regel 5) | Affrikaten **/ts/, /dz/** noch vorhanden → **vor der Entaffrizierung** |
+> | ⟨ss⟩ ≠ ⟨s⟩ (Regel 4) | **Sonoritätsopposition** noch intakt → **vor dem 16. Jh.** |
+> | ⟨x⟩ für ⟨j⟩ (Regel 6) | präpalataler Frikativ **/ʃ/** → **vor der Velarisierung** |
+> | *-ie-* im Imperfekt (Regel 9) | altspanische **Morphologie** |
+> | *son/eran* + Partizip (Regel 11) | **Perfektauxiliar *ser*** → vor ca. 1600 |
+> | Verschmelzungen wie *cono*, *ena* (Regel 10) | **assimilierte Artikelformen** → Rioja/Aragonesisch, frühe Zeugnisse |
+>
+> **Praktische Folge:** Notiere beim Entschlüsseln jede Regel, die du anwenden musstest, an den Rand. **Diese Liste ist deine Begründung für Teil ii).** Du hast sie schon geschrieben, bevor du mit der Analyse anfängst — und Teil ii) kostet dich dann keine zusätzliche Denkzeit.
+
+### 0.3 Trainingssatz
+
+Entschlüssele, dann prüfe:
+
+> *& sil matare el qui demandare los fiadores de saluo. non peche nada ni esca enemigo.* (Fuero viejo de Alcalá)
+
+**Lösung:** *sil* = *si le* (Regel 10) · *saluo* = *salvo* (Regel 1) · *non* = *no* (Regel 8) · *peche* von *pechar* ‚Buße zahlen' · *esca* Konjunktiv zu *exir* ‚herausgehen'. → ‚Und wenn ihn derjenige tötet, der die Bürgen der Sicherheit verlangte, zahle er keine Buße und werde nicht zum Feind erklärt.'
+
+**Und das Datierungsergebnis fällt mit an:** *non* + postverbales *nada* = **negative concord** — ein Muster, das es **heute genauso gibt** (Kap. 6 §4.2). Also datiert die **Negation hier nicht**; du musst auf **Graphie** (*saluo*, *sil*) und **Lexik** (*pechar*, *exir*) ausweichen. → **Altspanisch.**
+
+---
+
 ## 1 ⭐⭐⭐ Die wichtigste Vorentscheidung: datiert das Merkmal, oder lokalisiert es?
 
 **Bevor du irgendeine Tabelle benutzt, musst du diese Unterscheidung beherrschen.** Sie ist der häufigste Fehler bei Typ-1-Fragen:

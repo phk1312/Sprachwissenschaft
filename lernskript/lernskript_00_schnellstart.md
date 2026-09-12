@@ -132,13 +132,14 @@ Ehrlich kalkuliert, was in welcher Restzeit den größten Punktzuwachs bringt. *
 
 | Priorität | Was | Zeit |
 |---|---|---|
-| 1 | **Kap. 14 Kompaktzettel** dreimal durchlesen, dabei laut aufsagen | 1,5 h |
-| 2 | **Kap. 7 §2** Pronominalsyntax + Prüfschema — hier liegt die Typ-1-Frage | 1,5 h |
-| 3 | **Kap. 3, Beispiel-Fading (a)**: die offizielle Typ-1-Frage in 8 Schritten | 1 h |
-| 4 | **Kap. 9** alle 30 Verwechslungsfallen + Selbsttest | 1,5 h |
-| 5 | **Kap. 10 §3** die 16 Jahreszahlen | 0,5 h |
-| 6 | **Eine Mock-Klausur** unter Zeitlimit + Auswertung | 2,5 h |
-| 7 | Alle **Typ-2-Minimalantworten** (jeweils die ersten 3–4 Sätze der Musterlösungen) | 1,5 h |
+| 1 | **Kap. 14 Kompaktzettel** zweimal durchlesen, dabei laut aufsagen | 1 h |
+| 2 | **Kap. 0 §5** Punkteökonomie + **Kap. 7 §0** die 12 Leseregeln | 1 h |
+| 3 | **Kap. 7 §2** Pronominalsyntax + Prüfschema — hier liegt die Typ-1-Frage | 1,5 h |
+| 4 | **Kap. 3, Beispiel-Fading (a)**: die offizielle Typ-1-Frage in 8 Schritten | 1 h |
+| 5 | **Kap. 9** alle 30 Verwechslungsfallen + Selbsttest | 1,5 h |
+| 6 | **Kap. 10 §3** die 16 Jahreszahlen | 0,5 h |
+| 7 | **Eine Mock-Klausur** unter Zeitlimit + Auswertung | 2,5 h |
+| 8 | Alle **Typ-2-Minimalantworten** (jeweils die ersten 3–4 Sätze der Musterlösungen) | 1 h |
 
 ### 4 Stunden übrig
 
@@ -180,3 +181,147 @@ Damit du in der Klausur weißt, was du **als Fachwissen anführen** kannst und w
 - **Umgekehrter Fall — Handout-Fehler.** An einer Stelle widerspricht das Kursmaterial sich selbst: **HO8** gibt „Prädetermination > Postdetermination" an, während **HO2 (3.2)** und **Becker (11.1)** die Richtung **Post- → Prädetermination** beschreiben. Richtig ist Post- → Prä-. Lerne die **Logik** (Endung hinten → Funktionswort vorn), nicht die Tabellenzeile — dann bist du gegen eine R/F-Frage in beide Richtungen immun.
 
 → Weiter mit `lernskript_00_grundbegriffe.md` (Kapitel 1).
+
+
+---
+
+## 5 ⭐⭐⭐ Punkteökonomie: die billigsten 17 Punkte
+
+**Bestehen heißt 17 von 30 Punkten** (Notenschlüssel HO1, 2: 0–16 = 5; **17–20 = 4**). Das ist etwas völlig anderes, als „den Stoff zu beherrschen" — und es lässt sich **ausrechnen**.
+
+### 5.1 Die Punktearchitektur
+
+Nach dem Zuschnitt der offiziellen Beispielfragen und einer typischen 30-Punkte-Verteilung:
+
+| Typ | Punkte | Was verlangt wird | **Aufwand pro Punkt** | Sicherheit |
+|---|---|---|---|---|
+| **Typ 3** (R/F) | ~8 | nur ankreuzen | **minimal** — kein Formulieren, kein Schreiben | hoch, wenn du die Verwechslungspaare kennst |
+| **Typ 2** (Wissensfrage) | ~10 | Definition + 2 Beispiele | mittel — **formelhaft**, immer dieselbe Struktur | hoch bei gelernten Begriffen |
+| **Typ 1** (Daten) | ~12 | analysieren, terminologisch fassen, datieren, begründen | **hoch** — braucht Verständnis *und* Textkompetenz | schwankend |
+
+> ### ⭐⭐⭐ Die Kernaussage
+> **Typ 3 und Typ 2 zusammen sind 18 Punkte — mehr als du zum Bestehen brauchst.** Und beide sind die *billigeren* Aufgabentypen.
+>
+> **Das ist die strategisch wichtigste Zahl des ganzen Skripts.** Wer Typ 3 und Typ 2 sicher beherrscht, besteht — auch wenn Typ 1 komplett misslingt.
+
+### 5.2 Drei Bestehenspfade, durchgerechnet
+
+| Pfad | Typ 3 | Typ 2 | Typ 1 | Summe | Note |
+|---|---|---|---|---|---|
+| **A — „Erkennen + Definieren"** | 7 von 8 | 8 von 10 | 2 von 12 | **17** | 4 |
+| **B — „solide Mitte"** | 6 von 8 | 7 von 10 | 5 von 12 | **18** | 4 |
+| **C — „Typ 1 sitzt"** | 5 von 8 | 5 von 10 | 8 von 12 | **18** | 4 |
+
+**Pfad A ist der billigste** — er verlangt kein einziges vollständiges Typ-1-Ergebnis. Er verlangt: **Verwechslungspaare** (Kap. 9) + **Begriffsdefinitionen mit je zwei Beispielen** (Kap. 8) + **Jahreszahlen** (Kap. 10 §3).
+
+**Für eine gute Note brauchst du Typ 1.** Für das Bestehen brauchst du ihn nicht. Plane in dieser Reihenfolge.
+
+### 5.3 ⭐⭐⭐ Typ 3: Lass niemals ein Feld leer
+
+**Die Regel:** Kreuze bei **jeder** R/F-Aussage etwas an — auch bei völliger Ahnungslosigkeit.
+
+**Die Begründung:** Bei zwei Antwortmöglichkeiten liefert blindes Raten im Erwartungswert **die Hälfte** der Punkte. Bei 8 Aussagen sind das **4 Punkte für null Wissen**. Ein leeres Feld liefert **null**.
+
+> ⚠️ **Ein ehrlicher Vorbehalt:** Der Syllabus (HO1) nennt nur die Gesamtpunkte und den Notenschlüssel; über **Punkteabzug für falsche Antworten** sagt er nichts, und die Beispielfragen zeigen bloß Ankreuzkästchen. Solange nichts anderes dasteht, ist Raten die bessere Wahl: Ohne Abzug bringt es im Schnitt einen halben Punkt pro Aussage, bei symmetrischem Abzug bringt es im Schnitt null — **schlechter als Nichtankreuzen wird es nur bei überproportionalem Abzug**. Falls auf dem Klausurbogen ein Abzug angekündigt ist, rate nur dort, wo du eine begründete Vermutung hast.
+
+**Und Raten musst du selten blind:** Mit den Heuristiken aus Kap. 9 kommst du meist auf 70–90 %.
+
+| Heuristik | Wirkung |
+|---|---|
+| **Absolutheitswörter** — „ausschließlich", „unbestritten", „vollständig", „ganz", „durchgängig", „immer", „nur" | Sehr häufig der eingebaute Fehler. → Tendenz **F** |
+| **Zwei nahe Fachbegriffe** in einer Aussage (*Substrat*/*Superstrat*, *le*/*lo*, *Seseo*/*Ceceo*, *Primär*/*Sekundär*) | Verdacht auf **Begriffsverwechslung**. Prüfe die Definition, nicht das Gefühl |
+| **Konkrete Jahreszahl** | Gegen die 16 Kerndaten prüfen (Kap. 10 §3). Ist sie nicht dabei: Vorsicht |
+| **Steil klingendes Gesamturteil** über mehrere Kapitel | **Nicht reflexhaft F!** Solche Aussagen sind oft **wahr** (z. B. „Konsonantensystem stärker verändert als Vokalsystem" = **R**) |
+| **Eine plausible Begründung im Nebensatz** („…, weil …") | Der **Fehler kann in der Begründung** stecken, obwohl die Hauptaussage stimmt (z. B. *siglo* sei Erbwort, „weil in ununterbrochener Kontinuität überliefert") |
+
+### 5.4 Typ 2: die formelhafte Antwort
+
+Typ 2 ist der Aufgabentyp mit dem **besten Verhältnis von Lernaufwand zu Punkten**, weil die Struktur **immer identisch** ist:
+
+> **[Terminus] bezeichnet [Definition mit den 2–3 definierenden Merkmalen]. [Ein Satz Mechanismus oder Ursache.] Beispiele: [Beispiel 1] und [Beispiel 2]. [Optional: ein Satz Abgrenzung zum Nachbarbegriff.]**
+
+**Fünf Sätze, immer gleich gebaut.** Wenn du für 20 Begriffe diese fünf Sätze parat hast, sind ~10 Punkte planbar. Die Rohstoffe stehen vollständig in **Kap. 8** (Definition + Beispiel je Begriff) und **Kap. 9** (der Abgrenzungssatz).
+
+**Die zwei Punktekiller — beide vermeidbar:**
+
+1. **Beispiele vergessen.** Die Frage sagt immer „*und geben Sie zwei Beispiele*". Fehlen sie, fehlt die Hälfte. **Schreib die Beispiele zuerst hin**, wenn du unter Zeitdruck bist.
+2. **Nur ein Beispiel geben.** „Zwei" heißt zwei. Ein zweites, schwächeres Beispiel ist besser als keins.
+
+### 5.5 Der Ablauf, wenn es ums Bestehen geht
+
+| Reihenfolge | Aufgabe | Zeit | Warum in dieser Position |
+|---|---|---|---|
+| **1.** | **Typ 3 vollständig** | 12 min | Billigste Punkte, kein Formulieraufwand, **kein Feld leer** |
+| **2.** | **Typ 2, die Frage, die du am besten kannst** | 10 min | Sichert den ersten großen Block |
+| **3.** | **Typ 2, die restlichen Fragen** — notfalls nur Definition + 2 Beispiele | 20 min | Auch eine Rumpfantwort holt den Großteil |
+| **4.** | **Typ 1, Teil i) aller Aufgaben** | 25 min | Die Analyse ist punktereicher als die Datierung — **erst alle i), dann alle ii)** |
+| **5.** | **Typ 1, Teil ii) aller Aufgaben** | 15 min | Datierung + Begründung; hier notfalls nur „nicht modern, weil …" |
+| **6.** | **Kontrolle** | 5 min | Zwei Beispiele überall? Kein R/F-Feld leer? |
+
+> ⭐⭐ **Schritt 4 ist der wichtigste taktische Hinweis:** Bearbeite bei Typ 1 **nicht** eine Aufgabe vollständig und dann die nächste, sondern **erst alle Teile i)**. Die Analyse mit Fachtermini ist der punktereichere Teil, und du willst nicht in Aufgabe 3.1 Zeit verbrennen, während in 3.3 ein Merkmal liegt, das du sofort erkennst.
+
+---
+
+## 6 ⭐⭐⭐ Zwei kommentierte Schwachantworten
+
+**Die häufigste Ursache für Punktverlust ist nicht fehlendes Wissen, sondern das Verfehlen der Aufgabenstellung.** Beide folgenden Antworten stammen von jemandem, der „es eigentlich weiß" — und beide bekommen kaum Punkte.
+
+### 6.1 Typ 2 — *Erklären Sie den Begriff Substrat und geben Sie zwei Beispiele.* (4 P.)
+
+**Schwachantwort:**
+
+> „Ein Substrat ist eine alte Sprache, die von einer neuen Sprache verdrängt wurde. Auf der iberischen Halbinsel war das zum Beispiel das Baskische und das Arabische."
+
+**Bewertung: ca. 1 von 4 Punkten.**
+
+| Element | Urteil |
+|---|---|
+| „alte Sprache … verdrängt" | **Halb richtig.** Trifft die Grundidee, aber es fehlen **autochthon**, die **Phase der Zweisprachigkeit** und dass die Sprache **Spuren hinterlässt** — ohne Letzteres ist der Begriff sprachhistorisch wertlos |
+| fehlt völlig | Dass Substrat ein **Relationsbegriff** ist („**im Verhältnis zur** Sprache der Eroberer"). Das ist das eigentlich Definierende und unterscheidet ihn von Adstrat und Superstrat |
+| „Baskisch" | **Falsch.** Baskisch ist **Adstrat** — es überlebte. Die klassische, vorinstallierte Falle |
+| „Arabisch" | **Falsch.** Das Arabische war Sprache der **Eroberer**, nicht der Eroberten |
+
+**Was diese Antwort lehrt:** Die **Beispiele sind rund die Hälfte der Punkte**, und ausgerechnet dort liegt die Falle. Wer *Iberisch* und *Keltisch* sagt, holt zwei Punkte, für die er nichts verstehen muss — nur zwei Wörter wissen.
+
+### 6.2 Typ 1 — *Kommentieren Sie die Syntax des Personalpronomens* le *mithilfe der einschlägigen Termini. Aus welcher Periode kann der Satz stammen?* (4 P.)
+
+**Schwachantwort:**
+
+> „Das Wort *le* steht hinter dem Verb. Im heutigen Spanisch steht es davor. Der Satz ist also alt, wahrscheinlich Altspanisch, weil die Schreibweise auch alt aussieht."
+
+**Bewertung: ca. 1,5 von 4 Punkten** — obwohl **jede einzelne Aussage zutrifft**.
+
+| Problem | Was fehlt und was es kostet |
+|---|---|
+| **Kein Fachterminus** | Die Aufgabe sagt ausdrücklich „**mithilfe der einschlägigen Termini**". Das Wort **Enklise** fehlt — ebenso **Proklise**, **Klitikum**. Damit ist die Kernanforderung nicht erfüllt |
+| **Keine Funktionsbestimmung** | *le* ist hier **indirektes Objekt**. Ohne diese Feststellung kann man auch nicht anmerken, dass **kein Leísmo** vorliegt — ein geschenkter Punkt bleibt liegen |
+| **Falle nicht ausgeschlossen** | Es fehlt der entscheidende Satz: Enklise datiert **nur beim finiten Verb im Aussagesatz**, weil sie bei Imperativ, Gerundium und Infinitiv **heute noch** existiert. Genau daran erkennt der Prüfer, ob verstanden oder geraten wurde |
+| **„Schreibweise sieht alt aus"** | **Keine Begründung, sondern ein Eindruck.** Punktefähig wäre: *macedonja* (⟨j⟩ für [i]), *apriessa* (⟨ss⟩), *entonce* ohne *-s* |
+| **Keine Zeitgrenze** | „Altspanisch" ohne **Jahreszahlen** und ohne das Argument, dass der Wandel **im 17. Jh.** abgeschlossen ist |
+
+**Was diese Antwort lehrt:** **Die Formulierung der Aufgabe ist der Bewertungsschlüssel.** „Mithilfe der einschlägigen Termini" heißt: *Terminologie wird bepunktet.* „Begründen Sie" heißt: *ein konkretes, benennbares Merkmal, kein Eindruck.*
+
+> ### ⭐⭐ Die Übung, die sich daraus ergibt
+> Nimm bei jeder Übungsaufgabe **zuerst die Aufgabenstellung** und unterstreiche die Verben und Zusätze: *kommentieren* · *mithilfe der einschlägigen Termini* · *aus welcher Periode* · *begründen* · *geben Sie zwei Beispiele*. **Das ist die Punkteliste.** Hake sie nach dem Schreiben einzeln ab.
+
+---
+
+## 7 ⭐⭐ Rettungsstrategie: Was schreiben, wenn du das Phänomen nicht erkennst?
+
+**Eine leere Typ-1-Antwort bringt 0 von 4. Eine strukturierte Beobachtung bringt oft 2.** Arbeite diese Leiter von oben nach unten ab — jede Stufe ist einzeln punktefähig.
+
+| Stufe | Was du tust | Beispielformulierung |
+|---|---|---|
+| **1** | **Beschreibe präzise, was du siehst.** Wortart, Position, Funktion. Beobachtung ist punktefähig, auch ohne Etikett | „Das unbetonte Pronomen *X* fungiert als direktes Objekt und steht nach dem finiten Verb." |
+| **2** | **Setze den allgemeinsten Terminus, den du sicher beherrschst.** Lieber ein korrekter Oberbegriff als ein falscher Spezialbegriff | „Es handelt sich um ein **Klitikum**." / „Die Markierung erfolgt **präpositional**." |
+| **3** | **Kontrastiere mit dem heutigen Spanisch.** Das kannst du fast immer — und es ist der Kern jeder Typ-1-Frage | „Im heutigen Spanisch wäre stattdessen *…* zu erwarten." |
+| **4** | **Weiche auf Graphie und Lexik aus**, wenn Syntax und Morphologie nichts hergeben. Fast jeder alte Satz verrät sich in der Schreibung | „Die Schreibungen ⟨ss⟩, ⟨f-⟩ und ⟨u⟩ für [v] weisen auf eine ältere Sprachstufe." |
+| **5** | **Grenze ein, statt zu raten.** Eine begründete Ausschlussaussage ist sicherer als eine falsche Periode | „**Sicher auszuschließen ist das moderne Spanisch**, da …" |
+| **6** | **Nenne die Periode mit „kann stammen aus"** und einer Jahresspanne | „Der Satz kann aus dem Altspanischen (ca. 1200–1450) stammen." |
+
+> ⭐ **Drei Sätze, die fast immer Punkte bringen — lerne sie wörtlich:**
+> 1. „Diese Stellung/Konstruktion ist im heutigen Spanisch **ungrammatisch**."
+> 2. „Sicher auszuschließen ist das **moderne Spanisch (ab 1650)**."
+> 3. „Für eine ältere Sprachstufe sprechen zusätzlich die **Graphie** (…) und der **Wortschatz** (…)."
+>
+> **Und die eiserne Regel: nie ein Feld leer lassen.** Bei Typ 1 und 2 gibt es keinen Abzug für einen Versuch — nur für Schweigen.

@@ -29,6 +29,8 @@
 
 **Empfohlene Stapel-Einstellungen für 28 Tage:** *Neue Karten/Tag:* **15** · *Maximale Wiederholungen/Tag:* **200**. Damit hast du alle 120 Karten nach ca. 8 Tagen einmal gesehen und danach genug Kapazität für Wiederholungen.
 
+> ⭐⭐ **Wichtig: Lerne den Stapel gemischt, nicht nach Kapitel-Tag.** Die Spalte „Kapitel" ist zum **Nachschlagen** gedacht, nicht zum Filtern. Wer nur Kapitel 4 durchgeht, weiß bei jeder Karte schon, dass die Antwort mit Sibilanten oder *-ismos* zu tun hat — und trainiert **Wiedererkennen statt Unterscheiden**. Genau das prüft die Klausur nicht. Anki mischt von sich aus richtig; lass es dabei. (Dasselbe Prinzip wie bei den Verwechslungsfallen in Kap. 9 und den Mock-Klausuren: **Interleaving**.)
+
 > ### ⭐ Warum eine App und keine Kalendertabelle
 > Ein echtes **SRS** (Spaced Repetition System) passt die Wiederholungsabstände **individuell an dein Abschneiden** an: Was du sicher weißt, kommt seltener; was du falsch beantwortest, kommt morgen wieder. Eine feste Tabelle kann das nicht — sie behandelt die Karte über *Nebrija* wie die über *Definitheitskonflikte*, obwohl du eine davon längst kannst.
 >
@@ -50,7 +52,7 @@
 | **2** | Kap. 1 Selbstcheck + Klausur-Simulation wiederholen; **Kap. 2 §1–4** (Vulgärlatein, Romanisierung) | 75 min | täglich |
 | **3** | **Kap. 2 §5–7** (Germanen, Araber, erste Zeugnisse, Primärdialekte) + Beispiel-Fading | 75 min | täglich |
 | **4** | Kap. 2 Klausur-Simulation + Selbstcheck | 45 min | täglich |
-| **5** | **Kap. 3 §1–4** (Altspanisch: Periodisierung, Ausbau, **Pronominalsyntax**) | 90 min | täglich |
+| **5** | **Kap. 7 §0** (Altspanisch entschlüsseln, 12 Leseregeln) → dann **Kap. 3 §1–4** (Altspanisch: Periodisierung, Ausbau, **Pronominalsyntax**) | 105 min | täglich |
 | **6** | **Kap. 3 §4 nochmals** (Enklise/Mesoklise/DOM) + **Beispiel-Fading (a)**: die offizielle Typ-1-Frage in 8 Schritten | 75 min | täglich |
 | **7** | **Kap. 3 §5–6** (Sibilantenpaare, Vokale, Wortschatzschichten) + Klausur-Simulation + Selbstcheck | 75 min | täglich |
 | **8** | **Kap. 4 §1–3** (1492/Nebrija, **Sibilantenwandel E–D–V**, Seseo/Ceceo/Distinción) | 90 min | alle 120 Karten sind jetzt im Umlauf |

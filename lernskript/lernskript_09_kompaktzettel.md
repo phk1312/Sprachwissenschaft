@@ -91,6 +91,13 @@
 ## ⭐ GRAPHIE-SCHNELLTEST → Altspanisch
 ⟨**ç**⟩ *braço* · ⟨**z**⟩=[dz] *dezir* · ⟨**ss**⟩≠⟨**s**⟩ *osso/oso* · ⟨**x**⟩ *caxa, dexar* · ⟨**f-**⟩ *fijo, fablar* · *muger, dixo, fizo, tenie, farien*
 
+## ⭐⭐⭐ PUNKTEÖKONOMIE — Bestehen = 17/30
+**Typ 3 (8 P.) + Typ 2 (10 P.) = 18 P. — mehr als du brauchst.** Beide sind die billigeren Typen. Typ 1 ist für die Note, nicht fürs Bestehen.
+**NIE ein R/F-Feld leer lassen** — Raten bringt im Schnitt die Hälfte, Schweigen null. **Nie eine Typ-1/2-Antwort leer lassen** — eine strukturierte Beobachtung bringt Teilpunkte.
+**Typ 2 = Formel:** Terminus → Definition (2–3 Merkmale) → ein Satz Mechanismus → **zwei Beispiele** → ein Satz Abgrenzung. **Beispiele zuerst hinschreiben**, wenn die Zeit knapp wird.
+**R/F-Heuristik:** Absolutheitswörter („ausschließlich, unbestritten, ganz, immer, nur") → meist **F** · zwei nahe Fachbegriffe → Verwechslung prüfen · steile Gesamturteile → oft **R** · Fehler kann im „**weil**"-Nebensatz stecken.
+**Rettung bei Typ 1, wenn nichts erkannt wird:** beschreiben was da steht → sichersten Oberbegriff setzen → „**Im heutigen Spanisch wäre …**" → Graphie/Lexik nennen → „**Sicher auszuschließen ist das moderne Spanisch, da …**"
+
 ## ⭐ KLAUSURTAKTIK
 **Typ 3 zuerst** (10–12 min) → **Typ 2** (25–30 min, **immer 2 Beispiele!**) → **Typ 1** (35–40 min: Terminus setzen → mit heute kontrastieren → **datieren MIT ≥2 Begründungen**) → 5 min Kontrolle
 **Typ 1 Prüfschema:** Klitikum zwischen Infinitiv+Endung? → Mesoklise. Verb finit? Nein → sagt nichts. Ja + Klitikum hinten im Aussagesatz? → Enklise → alt. Funktion des Klitikums prüfen (iO = kein Leísmo).
